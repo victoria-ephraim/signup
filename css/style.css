@@ -1,0 +1,29 @@
+    *{
+        padding: 0%;
+        margin: 0%;
+        box-sizing: border-box;
+      }
+      body{
+        background: rgb(219, 226, 266);
+          }
+          .row{
+            background: white;
+            border-radius: 30px;
+          }
+          img{
+            border-top-left-radius: 30px;
+            width: 50%;
+          }
+         
+          }
+          .btn1{
+            border: none;
+            outline: none;
+            height: 50px;
+            width: 80%;
+            background-color: black;
+            color: white;
+            border-radius: 4px;
+            font-weight: bold;
+            border-radius: 30px;
+          }}
